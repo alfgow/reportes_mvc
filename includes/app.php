@@ -6,5 +6,5 @@ require __DIR__.'/../vendor/autoload.php';
 
 $connection = conectarDB();
 
-use App\Usuario;
+use Model\Usuario;
 Usuario::setDB($connection);

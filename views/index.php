@@ -1,8 +1,3 @@
-<?php
-    require 'includes/app.php';
-    incluirTemplate('header');
-?>
-
 
 
         <div class="relative isolate px-6  sm:pt-14 lg:px-8">
@@ -37,6 +32,3 @@
 
 
 </body>
- <?php
- incluirTemplate('footer');
- ?>

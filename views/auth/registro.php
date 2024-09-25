@@ -1,7 +1,4 @@
-<?php
-    require '../includes/app.php';
-    incluirTemplate('header');
-?>
+
     <div class="isolate  px-6 py-24 sm:py-32 lg:px-8">
         
         <div class="mx-auto max-w-2xl text-center">
@@ -60,6 +57,3 @@
 
 </body>
 <script src="../js/registroUsuarios.js"></script>
- <?php
- incluirTemplate('footer');
- ?>
